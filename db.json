@@ -1,65 +1,71 @@
 {
- "offer":[
-{
- "id" : "215855",
- "activated": false ,
-"title": "4% Cash Back",
-"merchant": "ContainerStore.com",
-"image": "https://images.affinitysolutions.com/common/images/containerstore_120x60.gif",
-"shopType": "online" ,
-"tenWord" : "Earn 4% Cash Back at ContainerStore.com.",
-"twentyWord": "Offer expires 12-31-2019. Offers are subject to change. Offer not valid on purchases of gift cards. Rewards are earned based on the net price of eligible goods and services purchased, excluding tax, shipping and handling or any special services. Rewards are added to your Rewards Summary within 30 days of purchase or of travel completion. Rewards apply to purchases made when linking from the rewards website to ContainerStore.com only. This offer cannot be combined with any other offer, coupon code(s), or promotion, unless available through this site. ",
-"outsideLink": "http://click.linksynergy.com/fs-bin/click?id=E7Il34ja9WM&offerid=250125.7&type=3&subid=0&u1=168XlLWTxl616056",
-"expiration": 1577768400,
-"merchantId": "559" ,
-"requiresActivation": false,
-"offerValue": "4"
-},
-{
- "id" : "215855",
- "activated": false ,
-"title": "2% Cash Back",
-"merchant": "Lancome",
-"image": "https://images.affinitysolutions.com/common/images/macys_120x60.jpg",
-"shopType": "online" ,
-"tenWord" : "Earn 4% Cash Back at ContainerStore.com.",
-"twentyWord": "Offer expires 12-31-2019. Offers are subject to change. Offer not valid on purchases of gift cards. Rewards are earned based on the net price of eligible goods and services purchased, excluding tax, shipping and handling or any special services. Rewards are added to your Rewards Summary within 30 days of purchase or of travel completion. Rewards apply to purchases made when linking from the rewards website to ContainerStore.com only. This offer cannot be combined with any other offer, coupon code(s), or promotion, unless available through this site. ",
-"outsideLink": "http://click.linksynergy.com/fs-bin/click?id=E7Il34ja9WM&offerid=250125.7&type=3&subid=0&u1=168XlLWTxl616056",
-"expiration": 1577768400,
-"merchantId": "559" ,
-"requiresActivation": false,
-"offerValue": "2"
-},
-{
- "id" : "215855",
- "activated": false ,
-"title": "4% Cash Back",
-"merchant": "FTD.com",
-"image": "https://images.affinitysolutions.com/common/images/containerstore_120x60.gif",
-"shopType": "online" ,
-"tenWord" : "Earn 4% Cash Back at ContainerStore.com.",
-"twentyWord": "Offer expires 12-31-2019. Offers are subject to change. Offer not valid on purchases of gift cards. Rewards are earned based on the net price of eligible goods and services purchased, excluding tax, shipping and handling or any special services. Rewards are added to your Rewards Summary within 30 days of purchase or of travel completion. Rewards apply to purchases made when linking from the rewards website to ContainerStore.com only. This offer cannot be combined with any other offer, coupon code(s), or promotion, unless available through this site. ",
-"outsideLink": "http://click.linksynergy.com/fs-bin/click?id=E7Il34ja9WM&offerid=250125.7&type=3&subid=0&u1=168XlLWTxl616056",
-"expiration": 1577768400,
-"merchantId": "559" ,
-"requiresActivation": false,
-"offerValue": "4"
-},
-{
- "id" : "215855",
- "activated": false ,
-"title": "3% Cash Back",
-"merchant": "Brooksbrothers.com",
-"image": "https://images.affinitysolutions.com/common/images/virginatlantic_120x60.png",
-"shopType": "online" ,
-"tenWord" : "Earn 4% Cash Back at ContainerStore.com.",
-"twentyWord": "Offer expires 12-31-2019. Offers are subject to change. Offer not valid on purchases of gift cards. Rewards are earned based on the net price of eligible goods and services purchased, excluding tax, shipping and handling or any special services. Rewards are added to your Rewards Summary within 30 days of purchase or of travel completion. Rewards apply to purchases made when linking from the rewards website to ContainerStore.com only. This offer cannot be combined with any other offer, coupon code(s), or promotion, unless available through this site. ",
-"outsideLink": "http://click.linksynergy.com/fs-bin/click?id=E7Il34ja9WM&offerid=250125.7&type=3&subid=0&u1=168XlLWTxl616056",
-"expiration": 1577768400,
-"merchantId": "559" ,
-"requiresActivation": false,
-"offerValue": "3"
-}
-]
-
+  "offer": [
+    {
+      "id": "215855",
+      "activated": false,
+      "title": "4% Cash Back",
+      "merchant": "ContainerStore.com",
+      "image": "https://images.affinitysolutions.com/common/images/containerstore_120x60.gif",
+      "shopType": "online",
+      "tenWord": "Earn 4% Cash Back at ContainerStore.com.",
+      "twentyWord": "Offer expires 12-31-2019. Offers are subject to change. Offer not valid on purchases of gift cards. Rewards are earned based on the net price of eligible goods and services purchased, excluding tax, shipping and handling or any special services. Rewards are added to your Rewards Summary within 30 days of purchase or of travel completion. Rewards apply to purchases made when linking from the rewards website to ContainerStore.com only. This offer cannot be combined with any other offer, coupon code(s), or promotion, unless available through this site. ",
+      "outsideLink": "http://click.linksynergy.com/fs-bin/click?id=E7Il34ja9WM&offerid=250125.7&type=3&subid=0&u1=168XlLWTxl616056",
+      "expiration": 1577768400,
+      "merchantId": "559",
+      "requiresActivation": false,
+      "offerValue": "4"
+    },
+    {
+      "id": "215855",
+      "activated": false,
+      "title": "2% Cash Back",
+      "merchant": "Lancome",
+      "image": "https://images.affinitysolutions.com/common/images/macys_120x60.jpg",
+      "shopType": "online",
+      "tenWord": "Earn 4% Cash Back at ContainerStore.com.",
+      "twentyWord": "Offer expires 12-31-2019. Offers are subject to change. Offer not valid on purchases of gift cards. Rewards are earned based on the net price of eligible goods and services purchased, excluding tax, shipping and handling or any special services. Rewards are added to your Rewards Summary within 30 days of purchase or of travel completion. Rewards apply to purchases made when linking from the rewards website to ContainerStore.com only. This offer cannot be combined with any other offer, coupon code(s), or promotion, unless available through this site. ",
+      "outsideLink": "http://click.linksynergy.com/fs-bin/click?id=E7Il34ja9WM&offerid=250125.7&type=3&subid=0&u1=168XlLWTxl616056",
+      "expiration": 1577768400,
+      "merchantId": "559",
+      "requiresActivation": false,
+      "offerValue": "2"
+    },
+    {
+      "id": "215855",
+      "activated": false,
+      "title": "4% Cash Back",
+      "merchant": "FTD.com",
+      "image": "https://images.affinitysolutions.com/common/images/containerstore_120x60.gif",
+      "shopType": "online",
+      "tenWord": "Earn 4% Cash Back at ContainerStore.com.",
+      "twentyWord": "Offer expires 12-31-2019. Offers are subject to change. Offer not valid on purchases of gift cards. Rewards are earned based on the net price of eligible goods and services purchased, excluding tax, shipping and handling or any special services. Rewards are added to your Rewards Summary within 30 days of purchase or of travel completion. Rewards apply to purchases made when linking from the rewards website to ContainerStore.com only. This offer cannot be combined with any other offer, coupon code(s), or promotion, unless available through this site. ",
+      "outsideLink": "http://click.linksynergy.com/fs-bin/click?id=E7Il34ja9WM&offerid=250125.7&type=3&subid=0&u1=168XlLWTxl616056",
+      "expiration": 1577768400,
+      "merchantId": "559",
+      "requiresActivation": false,
+      "offerValue": "4"
+    },
+    {
+      "id": "215855",
+      "activated": false,
+      "title": "3% Cash Back",
+      "merchant": "Brooksbrothers.com",
+      "image": "https://images.affinitysolutions.com/common/images/virginatlantic_120x60.png",
+      "shopType": "online",
+      "tenWord": "Earn 4% Cash Back at ContainerStore.com.",
+      "twentyWord": "Offer expires 12-31-2019. Offers are subject to change. Offer not valid on purchases of gift cards. Rewards are earned based on the net price of eligible goods and services purchased, excluding tax, shipping and handling or any special services. Rewards are added to your Rewards Summary within 30 days of purchase or of travel completion. Rewards apply to purchases made when linking from the rewards website to ContainerStore.com only. This offer cannot be combined with any other offer, coupon code(s), or promotion, unless available through this site. ",
+      "outsideLink": "http://click.linksynergy.com/fs-bin/click?id=E7Il34ja9WM&offerid=250125.7&type=3&subid=0&u1=168XlLWTxl616056",
+      "expiration": 1577768400,
+      "merchantId": "559",
+      "requiresActivation": false,
+      "offerValue": "3"
+    }
+  ],
+  "user": {
+    "firstName": "Amfeld",
+    "lastName": "Morataz",
+    "email": "abc@gmail.com",
+    "phoneNumber": "+8801745879862",
+    "image": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg"
+  }
 }
