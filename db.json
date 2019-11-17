@@ -66,6 +66,8 @@
     "lastName": "Morataz",
     "email": "abc@gmail.com",
     "phoneNumber": "+8801745879862",
-    "image": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg"
+    "image": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg",
+    "follower": "1250",
+    "following": "750"
   }
 }
