@@ -70,5 +70,55 @@
     "bio": "It is a long established fact that a reader will be distracted by the readable content of page.",
     "follower": "1250",
     "following": "750"
-  }
+  },
+  "posts": [
+    {
+      "id": "1",
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Link: <a target='_blank' href='https://www.w3schools.com'>Visit W3Schools.com!</a>",
+      "image": "",
+      "likes": "372",
+      "commentes": "49",
+      "createdOn": "12313133"
+    },
+    {
+      "id": "2",
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Link: <a target='_blank' href='https://www.w3schools.com'>Visit W3Schools.com!</a>",
+      "image": "",
+      "likes": "372",
+      "commentes": "49",
+      "createdOn": "12313133"
+    },
+    {
+      "id": "3",
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Link: <a target='_blank' href='https://www.w3schools.com'>Visit W3Schools.com!</a>",
+      "image": "",
+      "likes": "372",
+      "commentes": "49",
+      "createdOn": "12313133"
+    },
+    {
+      "id": "4",
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Link: <a target='_blank' href='https://www.w3schools.com'>Visit W3Schools.com!</a>",
+      "image": "",
+      "likes": "372",
+      "commentes": "49",
+      "createdOn": "12313133"
+    },
+    {
+      "id": "5",
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Link: <a target='_blank' href='https://www.w3schools.com'>Visit W3Schools.com!</a>",
+      "image": "",
+      "likes": "372",
+      "commentes": "49",
+      "createdOn": "12313133"
+    },
+    {
+      "id": "6",
+      "post": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Link: <a target='_blank' href='https://www.w3schools.com'>Visit W3Schools.com!</a>",
+      "image": "",
+      "likes": "372",
+      "commentes": "49",
+      "createdOn": "12313133"
+    }
+  ]
 }
